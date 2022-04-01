@@ -2,7 +2,7 @@
 
 # Luo'bo Note
 
-> 学习笔记
+> Learning record
 
  [POWER BY DOCSIFY](https://docsify.js.org/#/zh-cn/)
 
